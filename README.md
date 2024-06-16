@@ -56,6 +56,9 @@ python manage.py migrate
 ```python
 python manage.py runserver
 ```
+### Usage
+
+Use the provided Postman API collection to test easily.
 
 ### Logging
 
