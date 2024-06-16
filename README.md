@@ -28,7 +28,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/social-networking-app.git
+git clone https://github.com/sannalavamsi/Social-Networking-Application.git
 cd SocialNetworkingApplication
 ```
 
