@@ -29,4 +29,4 @@ COPY . /code/
 # RUN python manage.py collectstatic --noinput
 
 # Specify the command to run your application
-CMD ["gunicorn", "--bind", "0.0.0.0:8000", "your_project_name.wsgi:application"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8000", "SocialNetworkApplication.wsgi:application"]
